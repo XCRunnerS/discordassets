@@ -1,0 +1,51 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Rules",
+      "description": "The Servers rules for SERVER_NAME",
+      "url": "https://github.com/XCRunnerS/discordassets",
+      "color": null,
+      "fields": [
+        {
+          "name": "__**Rule 1: Discord TOS**__",
+          "value": "Links to Discord TOS:\n> https://discord.com/terms\n> https://discord.com/guidelines\n\n> **`1a) `**   All members must be over the age of 13\n> **`1b) `**   Selfbots are not allowed\n> **`1c) `**   DDoS attacks and DOXXing are not allowed\n> **`1d) `**   Dont commit crimes\n> **`1z) `**  All other related to Discord TOS\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        {
+          "name": "__**Rule 2: Advertisements and Links**__",
+          "value": "> **`2a) `** Do not send links in non-link channels. See **Rule 5**\n> **`2b) `** DM advertisement will **NOT** be tolerated and will result in a ban.\n> **`2c) `** Do not send any links violating discord terms or guidelines\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        {
+          "name": "__**Rule 3: Flood and Spam**__",
+          "value": "> **`3a) `** Do not Flood\n> **`3b) `** Do not Spam\n> **`3c) `** Do not send the same message in multiple channels\nDefinitions:\n> `Flood:` sending 6+ lines of content from one user\n> `Spam:` sending 5+ of the same message in a row\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        {
+          "name": "__**Rule 4: Respect**__",
+          "value": "Section 4: Respect\n> **`4a) `**  Treat members with basic respect: No death threats, sexism, hate speech, racism, etc.\n> **`4b) `**   Do not harass anyone. this is subdivided further:\n > ︱`4b.1 `︱Sexual harassment of anyone results in a **hard ban (see section 0)**\n > ︱`4b.2 `︱Sexual harassment of minors is reported to **Discord and Authorities**\n> **`4d) `** Keep Controversial topics in designated channels. see **Rule 5**\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        {
+          "name": "__**Rule 5: Channel Usage**__",
+          "value": "> **`5a) `** Please Communicate in English\n> **`5b) `** Limit Media used outside of designated channels\n> **`5c) `** Read the channel's pinned message and about section, its not that hard.\n> **`5d) `** Keep NSFW*content inside of designated channels. **NO EXCEPTIONS.**"
+        },
+        {
+          "name": "__**Rule 6: Media**__",
+          "value": "> **`5d) `** No NSFW, Gore, or Spam content\n> **`5d) `** No Malicious content of any kind\n> **`5d) `** All media must follow the channel's rules\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        {
+          "name": "__**Section 0: Definitions**__",
+          "value": "`Hard Ban:` a ban with no appeal, where any accounts associated with the user will also be banned with no appeal.\n`NSFW:` Typically meaning \"not safe for work\", in this case applying to any explicit content. this includes audio, visual content, and any related content.\n`Content:` Any data, message, or communication\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        }
+      ],
+      "author": {
+        "name": "SERVER_NAME Rules",
+        "url": "https://github.com/XCRunnerS/discordassets"
+      },
+      "footer": {
+        "text": "Rules Template from XCRunnerS on Github"
+      },
+      "timestamp": "2022-04-29T03:03:00.000Z"
+    }
+  ],
+  "username": "SERVER_NAME BOT",
+  "attachments": []
+}
